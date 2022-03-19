@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Grampanchayat Admin</string>
+    
+    <string-array name="Select">
+        <item>Approve</item>
+        <item>Pending</item>
+        <item>Rejected</item>
+        <item>Full Name</item>
+    </string-array>
+</resources>
